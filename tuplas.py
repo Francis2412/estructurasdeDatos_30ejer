@@ -46,7 +46,7 @@ def retornoMultiple():
     promedio = total / numv
     ventamax = max(ventas)
 
-    tulpasoli = (total, promedio, ventamax)
+    tuplasoli = (total, promedio, ventamax)
 
-    return tulpasoli
+    return tuplasoli
 
